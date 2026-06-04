@@ -1,0 +1,6 @@
+pyspark==3.5.1
+boto3
+pandas
+pyarrow
+s3fs
+apache-airflow
